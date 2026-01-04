@@ -1,103 +1,24 @@
-# Hi, I’m Sreeshanth Butti 👋  
-**Software Engineer | AI & Systems Enthusiast**
+# 💫 About Me:
+# Hi, I’m Sreeshanth Butti 👋  <br>**Software Engineer | AI & Systems Enthusiast**<br><br>I build reliable, real-world software systems where **machine learning, backend engineering, and intelligent automation intersect**.  <br>I enjoy working close to the problem — from raw data and algorithms to deployment, evaluation, and system performance.<br><br>---<br><br>## 🔭 Currently Working On<br>- AI systems for **speech processing, diarization, and NLP**<br>- Backend services supporting **ML-driven applications**<br>- Improving **model robustness, evaluation, and system-level performance**<br><br>---<br><br>## 👯 Looking to Collaborate On<br>- AI/ML projects with **clear real-world impact**<br>- Backend + ML systems (APIs, pipelines, inference services)<br>- Open-source tools in **ML infrastructure and data processing**<br><br>---<br><br>## 🤝 Looking for Help With<br>- Scaling and optimizing **ML systems**<br>- Better evaluation strategies for **noisy, real-world data**<br>- Production-ready **MLOps and deployment workflows**<br><br>---<br><br>## 🌱 Currently Learning<br>- Advanced **ML system design**<br>- Distributed systems & performance tuning<br>- Concepts in **autonomy, control, and perception pipelines**<br><br>---<br><br>## 💬 Ask Me About<br>- Machine Learning & Deep Learning<br>- Speech processing, diarization, NLP<br>- Backend APIs for AI systems<br>- Model evaluation & debugging<br>- System design for ML products<br><br>---<br><br>## ⚡ Fun Fact<br>I enjoy solving **hard engineering problems with imperfect data** more than clean textbook problems.<br><br>---<br><br>## 🧠 Languages & Tools<br>**Languages:**  <br>Python • C • C++ • Java • SQL • JavaScript  <br><br>**ML / AI:**  <br>PyTorch • TensorFlow • Hugging Face • Scikit-learn • Keras  <br>NumPy • Pandas • SciPy • Matplotlib • Plotly • MLflow  <br><br>**Backend & Systems:**  <br>FastAPI • Flask • REST APIs • Docker • Linux  <br><br>**Databases:**  <br>MySQL • MongoDB • Firebase • SQLite • DynamoDB  <br><br>**Cloud & DevOps:**  <br>AWS • Google Cloud • Vercel • GitHub Actions  <br><br>**Design & Productivity:**  <br>Figma • Canva • Adobe Photoshop • Lightroom • Premiere Pro • LaTeX  <br><br>---<br><br>## 📌 Featured Project<br>### 🏥 Diarizing Patient–Doctor Conversations  <br>🔗 [GitHub Repository](https://github.com/SREESHANTHBUTTI/diarizing-patient-doctor-conversations)<br><br>Built an AI pipeline to **separate speakers and generate structured transcripts** from clinical conversations.  <br>Worked across **data preprocessing, model integration, evaluation, and system design**, with emphasis on robustness to noise and speaker overlap.<br><br>---<br><br>## 🎓 Education<br>**B.Tech / B.E. – Computer Science**  <br>Focus areas: Machine Learning, Systems, Algorithms<br><br>---<br><br>## 🌐 Connect With Me<br>- **GitHub:** https://github.com/SREESHANTHBUTTI  <br>- **LinkedIn:** https://www.linkedin.com/in/sreeshanth-b-26a8a9295/  <br>- **Email:** sreeshanthbutti3@gmail.com  <br><br>---<br><br>## 📊 GitHub Stats<br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SREESHANTHBUTTI&show_icons=true&theme=dark)<br>![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SREESHANTHBUTTI&theme=dark)<br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SREESHANTHBUTTI&layout=compact&theme=dark)<br><br>---<br><br>## ✍️ Random Dev Quote<br>> *“Build systems that survive real-world chaos, not just clean benchmarks.”*<br>
 
-I build reliable, real-world software systems where **machine learning, backend engineering, and intelligent automation intersect**.  
-I enjoy working close to the problem — from raw data and algorithms to deployment, evaluation, and system performance.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ft.sreeshanth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sreeshanth-b-26a8a9295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreeshanthbutti3@gmail.com) 
 
-## 🔭 Currently Working On
-- AI systems for **speech processing, diarization, and NLP**
-- Backend services supporting **ML-driven applications**
-- Improving **model robustness, evaluation, and system-level performance**
+# 💻 Tech Stack:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SREESHANTHBUTTI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SREESHANTHBUTTI&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SREESHANTHBUTTI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 👯 Looking to Collaborate On
-- AI/ML projects with **clear real-world impact**
-- Backend + ML systems (APIs, pipelines, inference services)
-- Open-source tools in **ML infrastructure and data processing**
-
----
-
-## 🤝 Looking for Help With
-- Scaling and optimizing **ML systems**
-- Better evaluation strategies for **noisy, real-world data**
-- Production-ready **MLOps and deployment workflows**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SREESHANTHBUTTI&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SREESHANTHBUTTI&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌱 Currently Learning
-- Advanced **ML system design**
-- Distributed systems & performance tuning
-- Concepts in **autonomy, control, and perception pipelines**
-
----
-
-## 💬 Ask Me About
-- Machine Learning & Deep Learning
-- Speech processing, diarization, NLP
-- Backend APIs for AI systems
-- Model evaluation & debugging
-- System design for ML products
-
----
-
-## ⚡ Fun Fact
-I enjoy solving **hard engineering problems with imperfect data** more than clean textbook problems.
-
----
-
-## 🧠 Languages & Tools
-**Languages:**  
-Python • C • C++ • Java • SQL • JavaScript  
-
-**ML / AI:**  
-PyTorch • TensorFlow • Hugging Face • Scikit-learn • Keras  
-NumPy • Pandas • SciPy • Matplotlib • Plotly • MLflow  
-
-**Backend & Systems:**  
-FastAPI • Flask • REST APIs • Docker • Linux  
-
-**Databases:**  
-MySQL • MongoDB • Firebase • SQLite • DynamoDB  
-
-**Cloud & DevOps:**  
-AWS • Google Cloud • Vercel • GitHub Actions  
-
-**Design & Productivity:**  
-Figma • Canva • Adobe Photoshop • Lightroom • Premiere Pro • LaTeX  
-
----
-
-## 📌 Featured Project
-### 🏥 Diarizing Patient–Doctor Conversations  
-🔗 [GitHub Repository](https://github.com/SREESHANTHBUTTI/diarizing-patient-doctor-conversations)
-
-Built an AI pipeline to **separate speakers and generate structured transcripts** from clinical conversations.  
-Worked across **data preprocessing, model integration, evaluation, and system design**, with emphasis on robustness to noise and speaker overlap.
-
----
-
-## 🎓 Education
-**B.Tech / B.E. – Computer Science**  
-Focus areas: Machine Learning, Systems, Algorithms
-
----
-
-## 🌐 Connect With Me
-- **GitHub:** https://github.com/SREESHANTHBUTTI  
-- **LinkedIn:** https://www.linkedin.com/in/sreeshanth-b-26a8a9295/  
-- **Email:** sreeshanthbutti3@gmail.com  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SREESHANTHBUTTI&show_icons=true&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SREESHANTHBUTTI&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SREESHANTHBUTTI&layout=compact&theme=dark)
-
----
-
-## ✍️ Random Dev Quote
-> *“Build systems that survive real-world chaos, not just clean benchmarks.”*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
