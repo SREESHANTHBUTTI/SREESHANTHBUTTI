@@ -1,5 +1,18 @@
-# Hi, I’m Sreeshanth Butti 👋  
-**Software Engineer | AI & Systems Enthusiast**
+<!-- ===================== HEADER ===================== -->
+
+<h1 align="left" style="margin-bottom: 0; font-weight: 800;">
+  <span style="border-bottom: 4px solid #58A6FF; padding-bottom: 8px;">
+    Sreeshanth Butti
+  </span>
+</h1>
+
+<p style="margin-top: 6px; font-size: 1.1em; color: #8b949e;">
+  Software Engineer | AI & Systems Enthusiast
+</p>
+
+<hr style="border: none; height: 1px; background-color: #30363d; margin-top: 12px; margin-bottom: 28px;" />
+
+<!-- ===================== ABOUT ===================== -->
 
 I build reliable, real-world software systems where **machine learning, backend engineering, and intelligent automation intersect**.  
 I enjoy working close to the problem — from raw data and algorithms to deployment, evaluation, and system performance.
@@ -35,11 +48,11 @@ I enjoy working close to the problem — from raw data and algorithms to deploym
 ---
 
 ## 💬 Ask Me About
-- Machine Learning & Deep Learning
-- Speech processing, diarization, NLP
-- Backend APIs for AI systems
-- Model evaluation & debugging
-- System design for ML products
+- Machine Learning & Deep Learning  
+- Speech processing, diarization, NLP  
+- Backend APIs for AI systems  
+- Model evaluation & debugging  
+- System design for ML products  
 
 ---
 
@@ -49,40 +62,41 @@ I enjoy solving **hard engineering problems with imperfect data** more than clea
 ---
 
 ## 🧠 Languages & Tools
-**Languages:**  
-Python • C • C++ • Java • SQL • JavaScript  
 
-**ML / AI:**  
+### Languages
+Python • C • C++ • Java • SQL • JavaScript
+
+### ML / AI
 PyTorch • TensorFlow • Hugging Face • Scikit-learn • Keras  
-NumPy • Pandas • SciPy • Matplotlib • Plotly • MLflow  
+NumPy • Pandas • SciPy • Matplotlib • Plotly • MLflow
 
-**Backend & Systems:**  
-FastAPI • Flask • REST APIs • Docker • Linux  
+### Backend & Systems
+FastAPI • Flask • REST APIs • Docker • Linux
 
-**Databases:**  
-MySQL • MongoDB • Firebase • SQLite • DynamoDB  
+### Databases
+MySQL • MongoDB • Firebase • SQLite • DynamoDB
 
-**Cloud & DevOps:**  
-AWS • Google Cloud • Vercel • GitHub Actions  
+### Cloud & DevOps
+AWS • Google Cloud • Vercel • GitHub Actions
 
-**Design & Productivity:**  
-Figma • Canva • Adobe Photoshop • Lightroom • Premiere Pro • LaTeX  
+### Design & Productivity
+Figma • Canva • Adobe Photoshop • Lightroom • Premiere Pro • LaTeX
 
 ---
 
 ## 📌 Featured Project
-### 🏥 Diarizing Patient–Doctor Conversations  
-🔗 [GitHub Repository](https://github.com/SREESHANTHBUTTI/diarizing-patient-doctor-conversations)
 
-Built an AI pipeline to **separate speakers and generate structured transcripts** from clinical conversations.  
-Worked across **data preprocessing, model integration, evaluation, and system design**, with emphasis on robustness to noise and speaker overlap.
+### 🏥 Diarizing Patient–Doctor Conversations  
+🔗 https://github.com/SREESHANTHBUTTI/diarizing-patient-doctor-conversations
+
+Built an AI pipeline to **separate speakers and generate structured transcripts** from real clinical conversations.  
+Worked across **data preprocessing, model integration, evaluation, and system design**, focusing on robustness to noise and speaker overlap.
 
 ---
 
 ## 🎓 Education
 **B.Tech / B.E. – Computer Science**  
 Focus areas: Machine Learning, Systems, Algorithms
-
 ---
 
 ## 🌐 Socials:
